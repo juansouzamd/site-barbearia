@@ -6,8 +6,8 @@
 
 ### Itens da página principal
 
-<p> Logo, menu, banner, sobre a barbearia, localização no maps e vídeo. </p>
-<p> Fundo em degrade </p>
+* Logo, menu, banner, sobre a barbearia, localização no maps e vídeo. 
+* Fundo em degrade.
 
 ## Página de produtos e contato
 
@@ -15,8 +15,8 @@
 
 ### Itens da página de produtos
 
-<p> 3 tipos de produtos da barbearia, todos em lista com hover. </p>
+* 3 tipos de produtos da barbearia, todos em lista com hover.
 
 ### Itens da página de contato
 
-<p> Formulário de contato completo com: nome, e-mail, telefone e mensagem. </p>
+* Formulário de contato completo com: nome, e-mail, telefone e mensagem.
