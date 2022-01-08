@@ -20,3 +20,9 @@
 ### Itens da página de contato
 
 * Formulário de contato completo com: nome, e-mail, telefone e mensagem.
+
+### 🛠 Tecnologias utilizadas
+
+* HTML5
+* CSS3
+
