@@ -2,7 +2,7 @@
 
 ## Página principal
 
-<p align='center'> <img src='https://raw.githubusercontent.com/juansouzamd/site-barbearia/main/gif/Layout%20tela%20principal.gif'/></p>
+<p align='center'> <img src='https://raw.githubusercontent.com/juansouzamd/site-barbearia/main/assets/Layout%20tela%20principal.gif'/></p>
 
 ### Itens da página principal
 
@@ -11,7 +11,7 @@
 
 ## Página de produtos e contato
 
-<p align='center'> <img src='https://raw.githubusercontent.com/juansouzamd/site-barbearia/main/gif/Layout%20tela%20%20produtos%20e%20contato.gif'/></p>
+<p align='center'> <img src='https://raw.githubusercontent.com/juansouzamd/site-barbearia/main/assets/Layout%20tela%20%20produtos%20e%20contato.gif'/></p>
 
 ### Itens da página de produtos
 
